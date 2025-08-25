@@ -6,3 +6,13 @@ height: 800px;
 
 background: #D4733B;
 
+/* image */
+
+position: absolute;
+width: 405px;
+height: 720px;
+left: -20px;
+top: 48px;
+
+background: url(image.png);
+border-radius: 33px;
